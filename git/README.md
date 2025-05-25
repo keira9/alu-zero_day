@@ -1,1 +1,1 @@
-# git directory in alu-zero_day
+# How to be up to date in git
